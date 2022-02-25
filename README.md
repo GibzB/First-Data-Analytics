@@ -1,4 +1,4 @@
-# First-Data-Analytics 📈
+# 📈 First-Data-Analytics 
 
 Querry and find out the movie watching habits of Kenyans on Netflix
 
